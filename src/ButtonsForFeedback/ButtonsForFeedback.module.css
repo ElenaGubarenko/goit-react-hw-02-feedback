@@ -1,0 +1,6 @@
+.ButtonsForFeedback {
+  min-width: 200px;
+  display: flex;
+  padding: 0;
+  justify-content: space-between;
+}

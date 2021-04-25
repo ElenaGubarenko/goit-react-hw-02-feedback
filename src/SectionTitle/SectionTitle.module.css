@@ -1,0 +1,10 @@
+.SectionTitle {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
